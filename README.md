@@ -6,9 +6,13 @@ Use Excel to analyze the sales based on various product categories.
 I have utilized following items in building sales dashboard which analyzes products by category and region etc.
 
 • Creating Table for autoupdate range
+
 • Pivot Tables
+
 • Pivot Chart
+
 • Dynamic charts
+
 • Slicers and timeline
 ## Expected Deliverables:
 
